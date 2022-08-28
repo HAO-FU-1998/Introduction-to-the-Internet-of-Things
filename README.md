@@ -1,1 +1,2 @@
-# Introduction-to-the-Internet-of-Things
+# Introduction to the Internet of Things
+![image](1.jpg)
